@@ -25,10 +25,6 @@ Sistema de navegação autônoma de alta performance para robôs seguidores de l
   <em>Simulação cinemática 2D com telemetria instantânea de erro, turn e velocidade base.</em>
 </p>
 
-### Vídeo de Demonstração
-> [!NOTE]
-> Para assistir ao robô navegando na pista física em velocidade máxima com frenagem adaptativa em curvas, confira o vídeo de demonstração:
-> - **Vídeo do Robô em Pista:** [Assistir no YouTube / Demonstração](https://youtube.com) *(substitua com o link do seu vídeo gravado)*
 
 ---
 
